@@ -25,7 +25,7 @@ Server infrastructure with Microsoft 365 — covering Active Directory, Azure AD
 Connect, GPO, DNS, DHCP, and cloud identity management. Built to simulate a
 real business migration to the cloud.
 
-### 🛡️ [Spellcastr](https://github.com/JMitchTech/SPELLCASTR)
+### ✨ [Spellcastr](https://github.com/JMitchTech/SPELLCASTR)
 A Python/Flask cybersecurity tool combining live packet capture (Scapy) and
 network scanning (Nmap) in a single branded web dashboard. Detects port scans,
 ARP spoofing, SYN floods, and risky exposed services in real time.
