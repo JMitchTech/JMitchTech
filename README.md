@@ -1,5 +1,5 @@
 # Hey, I'm James 👋
-U.S. Army veteran (IT Specialist, 2008–2011) and self-taught developer
+U.S. Army veteran and self-taught developer
 based in Pennsylvania (relocating from California), building a modern
 portfolio across infrastructure, security, and software development.
 I got my foundation in enterprise IT through military service and have
@@ -10,7 +10,7 @@ real tools, not just following tutorials.
 
 ## 🖥️ What I Do
 - **Systems Administration** — Windows Server, Active Directory, Group Policy,
-  DNS, DHCP, enterprise infrastructure design
+  DNS, DHCP, enterprise infrastructure engineering
 - **Security Tooling** — network scanning, live packet capture, traffic analysis,
   threat detection, log analysis
 - **Python Development** — backend APIs, real-time web apps, CLI tools
