@@ -12,7 +12,7 @@ real tools, not just following tutorials.
 - **Systems Administration** — Windows Server, Active Directory, Group Policy,
   DNS, DHCP, enterprise infrastructure engineering
 - **Security Tooling** — network scanning, live packet capture, traffic analysis,
-  threat detection, log analysis
+  threat detection, log analysis, honeypot deployment, deception technology
 - **Python Development** — backend APIs, real-time web apps, CLI tools
 
 ---
@@ -36,6 +36,13 @@ uploaded `.evtx` files and surfaces threats, anomalies, and suspicious patterns
 in a unified web dashboard. Detects brute force attempts, account lockouts,
 privilege escalation, audit log tampering, and more.
 
+### 🪤 [Mimic](https://github.com/JMitchTech/MIMIC)
+A Python/Flask multi-service honeypot framework and deception engine. Deploys
+fake SSH, FTP, Telnet, and RDP services to lure attackers, capture credentials,
+classify attacker behavior, and display real time threat intelligence in a
+unified web dashboard. Features persistent logging, IP geolocation, threshold
+alerts, and a tarpit engine to waste attacker resources.
+
 ### 🎮 [Wizardwerks Game](https://github.com/JMitchTech/wizardwerks-game)
 A simple Python game — where the coding journey started.
 
@@ -50,6 +57,7 @@ A simple Python game — where the coding journey started.
 ![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-29aacc?style=flat-square)
 ![Scapy](https://img.shields.io/badge/Scapy-2.5-29aacc?style=flat-square)
+![Paramiko](https://img.shields.io/badge/Paramiko-ff8c00?style=flat-square)
 
 ---
 
