@@ -1,4 +1,4 @@
-![James Mitchell](images/james_banner.png)
+![James Mitchell](james_banner.png)
 
 Hi, I'm James. A U.S. Army veteran and system administrator based in Pennsylvania
 (relocating from California), building a modern portfolio across
