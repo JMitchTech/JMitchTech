@@ -1,5 +1,6 @@
-# Hey, I'm James 👋
-U.S. Army veteran and self-taught developer based in Pennsylvania
+![James Mitchell](images/james_banner.png)
+
+Hi, I'm James. A U.S. Army veteran and system administrator based in Pennsylvania
 (relocating from California), building a modern portfolio across
 infrastructure, security, and software development.
 I got my foundation in enterprise IT through military service and have
