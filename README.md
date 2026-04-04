@@ -1,7 +1,7 @@
 # Hey, I'm James 👋
-U.S. Army veteran and self-taught developer
-based in Pennsylvania (relocating from California), building a modern
-portfolio across infrastructure, security, and software development.
+U.S. Army veteran and self-taught developer based in Pennsylvania
+(relocating from California), building a modern portfolio across
+infrastructure, security, and software development.
 I got my foundation in enterprise IT through military service and have
 been expanding those skills ever since — currently learning by building
 real tools, not just following tutorials.
@@ -12,8 +12,8 @@ real tools, not just following tutorials.
 - **Systems Administration** — Windows Server, Active Directory, Group Policy,
   DNS, DHCP, enterprise infrastructure engineering
 - **Security Tooling** — network scanning, live packet capture, traffic analysis,
-  threat detection, log analysis, honeypot deployment, deception technology
-- **Python Development** — backend APIs, real-time web apps, CLI tools
+  threat detection, log analysis, honeypot deployment, deception technology, SIEM
+- **Python Development** — backend APIs, real-time web apps, CLI tools, database design
 
 ---
 
@@ -25,32 +25,25 @@ Server infrastructure with Microsoft 365 — covering Active Directory, Azure AD
 Connect, GPO, DNS, DHCP, and cloud identity management. Built to simulate a
 real business migration to the cloud.
 
-### ✨ [Spellcastr](https://github.com/JMitchTech/SPELLCASTR)
-A Python/Flask cybersecurity tool combining live packet capture (Scapy) and
-network scanning (Nmap) in a single branded web dashboard. Detects port scans,
-ARP spoofing, SYN floods, and risky exposed services in real time.
+### 🛡️ [Arcane Defense Suite](https://github.com/JMitchTech/ARCANE-Defense-Suite)
+A complete, self-built cybersecurity platform built in Python and Flask. Four
+integrated tools share a live SQLite database to form a fully functional
+security operations platform.
 
-### 📖 [Grimoire](https://github.com/JMitchTech/Grimoire)
-A Python/Flask Windows Security Log analyzer that ingests live Event Logs or
-uploaded `.evtx` files and surfaces threats, anomalies, and suspicious patterns
-in a unified web dashboard. Detects brute force attempts, account lockouts,
-privilege escalation, audit log tampering, and more.
-
-### 🪤 [Mimic](https://github.com/JMitchTech/MIMIC)
-A Python/Flask multi-service honeypot framework and deception engine. Deploys
-fake SSH, FTP, Telnet, and RDP services to lure attackers, capture credentials,
-classify attacker behavior, and display real time threat intelligence in a
-unified web dashboard. Features persistent logging, IP geolocation, threshold
-alerts, and a tarpit engine to waste attacker resources.
+- ✨ **[Spellcastr](https://github.com/JMitchTech/SPELLCASTR)** — Network recon & live packet analysis
+- 📖 **[Grimoire](https://github.com/JMitchTech/Grimoire)** — Windows log forensics & threat detection
+- 🪤 **[Mimic](https://github.com/JMitchTech/MIMIC)** — Honeypot framework & deception engine
+- 🔮 **[Scryer](https://github.com/JMitchTech/SCRYER)** — SIEM platform & correlation engine
 
 ### 🎮 [Wizardwerks Game](https://github.com/JMitchTech/wizardwerks-game)
-A simple Python game — where the coding journey started.
+A simple Python number guessing game — where the coding journey started.
 
 ---
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-ffd000?style=flat-square&logo=python&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-ff8c00?style=flat-square&logo=flask&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
@@ -65,7 +58,7 @@ A simple Python game — where the coding journey started.
 - 🎖️ Veteran — U.S. Army IT Specialist (25B)
 - 📦 Relocating to Pennsylvania
 - 📚 Expanding into cybersecurity and networking
-- 💼 Open to Sysadmin and IT Generalist roles
+- 💼 Open to Sysadmin, IT Generalist, and Security roles
 
 ---
 
