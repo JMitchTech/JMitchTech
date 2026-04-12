@@ -56,7 +56,6 @@ A simple Python number guessing game — where the coding journey started.
 
 ## 📍 Currently
 - 🎖️ Veteran — U.S. Army IT Specialist (25B)
-- 📦 Relocating to Pennsylvania
 - 📚 Expanding into cybersecurity and networking
 - 💼 Open to Sysadmin, IT Generalist, and Security roles
 
