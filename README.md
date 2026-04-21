@@ -79,7 +79,6 @@ A simple Python number guessing game — where the coding journey started.
 - 🎖️ Veteran — U.S. Army IT Specialist (25B)
 - 📚 Expanding into cybersecurity and networking
 - 💼 Open to Sysadmin, IT Generalist, and Security roles
-- 🔨 Building: LanePRO (TMS platform for logistics)
 
 ---
 
