@@ -53,9 +53,9 @@ companies that need more than a spreadsheet. LanePRO handles the full
 operational lifecycle of freight movement — from load planning and carrier
 management to dispatch, tracking, and reporting — in a single integrated platform.
 
-### 🎮 [Wizardwerks Game](https://github.com/JMitchTech/wizardwerks-game)
-A simple Python number guessing game — where the coding journey started.
-
+### 🎮 [Wizardwerks Games](https://github.com/JMitchTech/Wizardwerks-Games) 
+Wizardwerks Games is the games division of Wizardwerks Enterprise Labs — a collection of browser-based and Python-powered games built with the same retro terminal aesthetic and attention to detail that defines the rest of the Wizardwerks portfolio.
+Every game here is fully playable, fully documented, and built from scratch.
 ---
 
 ## 🛠️ Tech Stack
@@ -71,6 +71,7 @@ A simple Python number guessing game — where the coding journey started.
 ![Scapy](https://img.shields.io/badge/Scapy-2.5-29aacc?style=flat-square)
 ![Paramiko](https://img.shields.io/badge/Paramiko-ff8c00?style=flat-square)
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-2e7d32?style=flat-square)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
@@ -79,6 +80,7 @@ A simple Python number guessing game — where the coding journey started.
 - 🎖️ Veteran — U.S. Army IT Specialist (25B)
 - 📚 Expanding into cybersecurity and networking
 - 💼 Open to Sysadmin, IT Generalist, and Security roles
+- 🔨 Building: LanePRO (TMS platform for logistics)
 
 ---
 
