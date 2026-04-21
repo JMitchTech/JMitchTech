@@ -54,8 +54,8 @@ operational lifecycle of freight movement — from load planning and carrier
 management to dispatch, tracking, and reporting — in a single integrated platform.
 
 ### 🎮 [Wizardwerks Games](https://github.com/JMitchTech/Wizardwerks-Games) 
-Wizardwerks Games is the games division of Wizardwerks Enterprise Labs — a collection of browser-based and Python-powered games built with the same retro terminal aesthetic and attention to detail that defines the rest of the Wizardwerks portfolio.
-Every game here is fully playable, fully documented, and built from scratch.
+Wizardwerks Games is the games development division of Wizardwerks Enterprise Labs. It's a collection of browser-based and Python-powered games built with the same retro terminal aesthetic and attention to detail that defines the rest of the Wizardwerks portfolio. Every game here is fully playable, fully documented, and built from scratch
+
 ---
 
 ## 🛠️ Tech Stack
