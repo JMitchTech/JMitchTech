@@ -20,13 +20,17 @@ real tools, not just following tutorials.
 
 ## 🔧 Featured Projects
 
-### 🏢 [Wizardwerks HomeLab](https://github.com/JMitchTech/wizardwerks-homelab)
+### [<img src="https://raw.githubusercontent.com/JMitchTech/wizardwerks-homelab/main/wizard_corp_banner.png" width="600"/>](https://github.com/JMitchTech/wizardwerks-homelab)
+
 A fully documented hybrid enterprise environment syncing on-premises Windows
 Server infrastructure with Microsoft 365 — covering Active Directory, Azure AD
 Connect, GPO, DNS, DHCP, and cloud identity management. Built to simulate a
 real business migration to the cloud.
 
-### 🛡️ [Arcane Defense Suite](https://github.com/JMitchTech/ARCANE-Defense-Suite)
+---
+
+### [<img src="https://raw.githubusercontent.com/JMitchTech/ARCANE-Defense-Suite/main/images/ADS_poster.png" width="600"/>](https://github.com/JMitchTech/ARCANE-Defense-Suite)
+
 A complete, self-built cybersecurity platform built in Python and Flask. Four
 integrated tools share a live SQLite database to form a fully functional
 security operations platform.
@@ -36,7 +40,10 @@ security operations platform.
 - 🪤 **[Mimic](https://github.com/JMitchTech/MIMIC)** — Honeypot framework & deception engine
 - 🔮 **[Scryer](https://github.com/JMitchTech/SCRYER)** — SIEM platform & correlation engine
 
-### 🏔️ [SARPack](https://github.com/JMitchTech/SARPack)
+---
+
+### [<img src="https://raw.githubusercontent.com/JMitchTech/SARPack/main/Images/SARPACK_logo.png" width="600"/>](https://github.com/JMitchTech/SARPack)
+
 A unified rescue operations platform built for search and rescue teams operating
 in remote wilderness and mountain environments. Designed around the reality that
 connectivity fails when it matters most — SARPack prioritizes reliability and
@@ -47,7 +54,10 @@ offline-first functionality.
 - Meshtastic integration for off-grid mesh radio communication
 - Built to support the people who go in when everyone else can't
 
-### 🍅 [Stockpot](https://github.com/JMitchTech/stockpot)
+---
+
+### [<img src="https://raw.githubusercontent.com/JMitchTech/stockpot/main/logo1.png" width="600"/>](https://github.com/JMitchTech/stockpot)
+
 An AI-powered food cost and purchasing platform built specifically for independent
 and family-owned restaurants. Stockpot gives small operators the tools that big
 chains have always had — without the complexity, the cost, or the learning curve.
@@ -59,13 +69,19 @@ chains have always had — without the complexity, the cost, or the learning cur
 - Multi-language support — English, Spanish, Vietnamese, Mandarin, Korean, Greek, Italian
 - Built for the people who feed people
 
-### 🚛 [LanePRO](https://github.com/JMitchTech/LanePRO)
+---
+
+### [<img src="https://raw.githubusercontent.com/JMitchTech/LanePRO/main/lanepro_logo.png" width="600"/>](https://github.com/JMitchTech/LanePRO)
+
 A sophisticated Transportation Management System (TMS) built for logistics
 companies that need more than a spreadsheet. LanePRO handles the full
 operational lifecycle of freight movement — from load planning and carrier
 management to dispatch, tracking, and reporting — in a single integrated platform.
 
-### 🎮 [Wizardwerks Games](https://github.com/JMitchTech/Wizardwerks-Games)
+---
+
+### [<img src="https://raw.githubusercontent.com/JMitchTech/Wizardwerks-Games/main/banner.png" width="600"/>](https://github.com/JMitchTech/Wizardwerks-Games)
+
 Wizardwerks Games is the games development division of Wizardwerks Enterprise Labs. It's a collection of browser-based and Python-powered games built with the same retro terminal aesthetic and attention to detail that defines the rest of the Wizardwerks portfolio. Every game here is fully playable, fully documented, and built from scratch.
 
 ---
