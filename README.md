@@ -14,7 +14,7 @@ real tools, not just following tutorials.
 - **Security Tooling** — network scanning, live packet capture, traffic analysis,
   threat detection, log analysis, honeypot deployment, deception technology, SIEM
 - **Python Development** — backend APIs, real-time web apps, CLI tools, database design
-- **Full-Stack Applications** — end-to-end platform development across logistics, rescue operations, and security domains
+- **Full-Stack Applications** — end-to-end platform development across logistics, rescue operations, restaurant technology, and security domains
 
 ---
 
@@ -47,14 +47,26 @@ offline-first functionality.
 - Meshtastic integration for off-grid mesh radio communication
 - Built to support the people who go in when everyone else can't
 
+### 🍅 [Stockpot](https://github.com/JMitchTech/stockpot)
+An AI-powered food cost and purchasing platform built specifically for independent
+and family-owned restaurants. Stockpot gives small operators the tools that big
+chains have always had — without the complexity, the cost, or the learning curve.
+
+- **Nonna** — a built-in AI assistant that watches your numbers and speaks up when something matters
+- Smart purchasing forecasts generated from real sales data
+- Photo menu upload — snap your menu, Nonna extracts every dish automatically
+- Invoice scanning, barcode inventory, waste tracking, allergen management
+- Multi-language support — English, Spanish, Vietnamese, Mandarin, Korean, Greek, Italian
+- Built for the people who feed people
+
 ### 🚛 [LanePRO](https://github.com/JMitchTech/LanePRO)
 A sophisticated Transportation Management System (TMS) built for logistics
 companies that need more than a spreadsheet. LanePRO handles the full
 operational lifecycle of freight movement — from load planning and carrier
 management to dispatch, tracking, and reporting — in a single integrated platform.
 
-### 🎮 [Wizardwerks Games](https://github.com/JMitchTech/Wizardwerks-Games) 
-Wizardwerks Games is the games development division of Wizardwerks Enterprise Labs. It's a collection of browser-based and Python-powered games built with the same retro terminal aesthetic and attention to detail that defines the rest of the Wizardwerks portfolio. Every game here is fully playable, fully documented, and built from scratch
+### 🎮 [Wizardwerks Games](https://github.com/JMitchTech/Wizardwerks-Games)
+Wizardwerks Games is the games development division of Wizardwerks Enterprise Labs. It's a collection of browser-based and Python-powered games built with the same retro terminal aesthetic and attention to detail that defines the rest of the Wizardwerks portfolio. Every game here is fully playable, fully documented, and built from scratch.
 
 ---
 
@@ -62,6 +74,10 @@ Wizardwerks Games is the games development division of Wizardwerks Enterprise La
 
 ![Python](https://img.shields.io/badge/Python-ffd000?style=flat-square&logo=python&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-ff8c00?style=flat-square&logo=flask&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
@@ -72,14 +88,15 @@ Wizardwerks Games is the games development division of Wizardwerks Enterprise La
 ![Paramiko](https://img.shields.io/badge/Paramiko-ff8c00?style=flat-square)
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-2e7d32?style=flat-square)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-orange?style=flat-square)
 
 ---
 
 ## 📍 Currently
 
 - 🎖️ Veteran — U.S. Army IT Specialist (25B)
-- 📚 Expanding into cybersecurity and networking
-- 💼 Open to Sysadmin, IT Generalist, and Security roles
+- 📚 Expanding into cybersecurity, networking, and full-stack development
+- 💼 Open to Sysadmin, IT Generalist, Security, and Software Development roles
 
 ---
 
