@@ -1,5 +1,5 @@
 ![James Mitchell](james_banner.png)
-Hi, I'm James. A U.S. Army veteran and system administrator based in California, building a modern portfolio across
+Hi, I'm James. A U.S. Army veteran, system administrator, and graphic designer based in Pennsylvania, building a modern portfolio across
 infrastructure, security, and software development.
 I got my foundation in enterprise IT through military service and have
 been expanding those skills ever since — currently learning by building
