@@ -56,7 +56,7 @@ offline-first functionality.
 
 ---
 
-### [<img src="https://raw.githubusercontent.com/JMitchTech/stockpot/main/logo1.png" width="600"/>](https://github.com/JMitchTech/stockpot)
+### [<img src="https://raw.githubusercontent.com/JMitchTech/stockpot/main/logo2.png" width="600"/>](https://github.com/JMitchTech/stockpot)
 
 An AI-powered food cost and purchasing platform built specifically for independent
 and family-owned restaurants. Stockpot gives small operators the tools that big
